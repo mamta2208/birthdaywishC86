@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url(balloon.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgba(255, 255, 255, 0.548); 
+    border-style:ridge;
+	border-color:rgb(0, 144, 211);
+}
